@@ -1,0 +1,18 @@
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h2{
+    text-align: center;
+    color:rgb(246, 222, 3);
+}
+h1{
+    text-align: center;
+    color:rgb(0, 220, 245);
+}
+body{
+    background-image: url("https://www.visa.com.bz/dam/VCOM/regional/lac/SPA/Default/affluent/VHLC/marquee-visa-luxury-hotel-collection-1600x900.jpg");
+    background-size: cover;
+}
